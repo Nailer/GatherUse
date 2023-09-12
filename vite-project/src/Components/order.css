@@ -1,0 +1,67 @@
+.sign {
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    display: block;
+    margin-top: 30px;
+}
+
+.now {
+    font-size: 25px;
+    padding: 0px 0px 50px 0px;
+}
+
+.emailDiv {
+    padding: 15px 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.emailDiv > span {
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.emailDiv > input {
+    width: 180px;
+    height: 30px;
+    font-size: 18px;
+    background-color: black;
+    color: yellow;
+    border: 1px solid yellow;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.emailDivv > input {
+    width: 200px;
+    height: 50px;
+    font-size: 21px;
+    background-color: (#123, 123, 66);
+    color: yellow;
+    border: 3px solid rgb(123, 123, 66);
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.emailDivv > button {
+    width: 180px;
+    height: 40px;
+    color: yellow;
+    font-size: 17px;
+    border: .2px solid yellow;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.or {
+    padding: 20px;
+}
+
+small {
+    /* width: 10px; */
+    font-size: 15px;
+    color: red;
+    /* padding-top: 20px; */
+}

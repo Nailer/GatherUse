@@ -1,0 +1,88 @@
+.link > img {
+    width: 200px;
+}
+
+.page {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.text > p {
+    font-size: 20px;
+    color: yellow;
+    padding: 10px 10px;
+    letter-spacing: 1;
+    /* line-height: 30px; */
+    font-size: 22px;
+}
+
+.capacity {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px 0px;
+    font-size: 25px;
+}
+
+.capacity > p {
+    border: 1px solid yellow;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.capacity > span {
+    border: 1px solid yellow;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.students {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 30px 0px;
+    font-size: 25px;
+}
+
+.students > p {
+    border: 1px solid yellow;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.students > span {
+    border: 1px solid yellow;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.generate > h1 {
+    color: yellow;
+    margin-bottom: 20px;
+}
+
+.btn {
+    width: 220px;
+    height: 50px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.nameInput {
+    color: yellow;
+    border: 1px solid yellow;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    margin: 20px 0px;
+    font-size: 20px;
+}
+
+
+

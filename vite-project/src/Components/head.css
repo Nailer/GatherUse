@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.headDiv > img {
+    width: 130px;
+}
+
+h2 {
+    color: yellow !important;
+}
+
+.contactUs {
+    font-size: 17px;
+    letter-spacing: .7px;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    /* gap: 50px; */
+    padding-right : 5px;
+}
